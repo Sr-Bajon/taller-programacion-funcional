@@ -81,4 +81,4 @@ function factorialVelezExplicada(n) {
       *   4 x 6 = se resuelve con 24
     *   5 x 24 = se resuelve con 120 y al ser la primera llamada se devuelve finalmente
 */
-console.log(factorialVelezExplicada(5));
+xconsole.log(factorialVelezExplicada(5));
